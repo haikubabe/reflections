@@ -1,0 +1,14 @@
+
+							First Reflection Exercise
+
+
+
+
+Q1) How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+My answer:- diff command is a very hany command in linux, it is very helpful, when I used it I didn't have to actually go through the whole file manually to look for the differences, as diff actually does the same for us,it prints the line for both the versions of file(old as well as new) so we can figure out where actually the difference between the files are lying. So, yeah diff helps me a lot. 
+
+
+Q2) How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+My answer:- Yeah, definitely if you have the access to the entire history of a file then you can view the entire files & u will also be able to see your updates, what changes you have made while writing that file, so yeah u will get to see ur entire file & u can also make some changes if u would like to do something like this...
